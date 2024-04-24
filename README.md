@@ -44,7 +44,7 @@ Coffee Type
 =INDEX(products!$A$1:$G$49,MATCH($D2,products!$A$1:$A$49,0),MATCH('Working Sheet'!I$1,products!$A$1:$G$1,0))
 ```
 
-![(Coffee GIF.gif)]
+![Index Match](https://github.com/jbqabellera/coffee_excel/blob/d917f1f9a544d6a34eab0e2427e8813d94f9801b/Coffee%20GIF.gif)
 
 Sales
 ```
