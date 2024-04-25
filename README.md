@@ -1,5 +1,7 @@
 # Coffee Sales Dashboard
 
+The project's goal is to identify potential opportunities that the coffee business can tap into and issues that needs to be resolved. This end-to-end project uses Microsoft Excel from data cleaning to data visualization.
+
 ## Task 
 
 The client wants to know:
@@ -76,7 +78,13 @@ Step 6. Edit the formatting.
 
 Step 7. Create pivot tables, charts, and slicers.
 
-Step 8. Create the dashboard.
+## Data Analysis
+
+
+Create a pivot table for each of the following:
+- Total Sales over Time
+- Total Sales by Country
+- Top 5 Customers
 
 ## Coffee Sales Dashboard
 
