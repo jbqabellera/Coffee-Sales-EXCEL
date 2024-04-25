@@ -76,7 +76,6 @@ Step 5. Double-check the data. Use Filters.
 
 Step 6. Edit the formatting.
 
-Step 7. Create pivot tables, charts, and slicers.
 
 ## Data Analysis
 
