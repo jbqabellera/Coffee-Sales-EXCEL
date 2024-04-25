@@ -16,6 +16,8 @@ The data includes three sheets:
 - Customers - Database of customer information
 - Products - Information of every product that we offer
   - Coffee Type, Roast Type, Size, Unit Price, Price per 100g, Profit
+
+[Download Link](https://github.com/jbqabellera/Coffee-Sales-Excel-Project/blob/a7f2cf9734e18270d71041b7568d404912d9509b/Coffee%20Sales%20Dashboard.xlsx)
  
 ## Data Cleaning
 
