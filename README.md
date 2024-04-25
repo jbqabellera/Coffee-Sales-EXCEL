@@ -80,4 +80,4 @@ Step 8. Create the dashboard.
 
 ## Coffee Sales Dashboard
 
-[(https://1drv.ms/x/c/492367e7aa5d37f3/IQO9yw-FvVX7RohWBleLMr9aAV7nxRJDAQ4Ycvrc3yWjOKc)]
+[View the dashboard here](https://1drv.ms/x/c/492367e7aa5d37f3/IQPVE3CJsANqQJb3XG5i-BE6Ae_SZSk9Cbub5wTtysH2WIA)
